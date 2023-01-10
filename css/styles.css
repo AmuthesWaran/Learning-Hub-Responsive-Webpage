@@ -1,0 +1,186 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+
+.carousel-inner img {
+    height: 600px;
+    width: 100%;
+}
+
+
+.head {
+    display: flex;
+}
+
+
+.nav_bar {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+
+.nav_button {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.navend {
+    padding-left: 300px;
+    
+}
+
+.navbar-brand img {
+    border-radius: 50px;
+
+}
+
+.courselib {
+    background-image: url(/images/courselib.jpg);
+    background-size: cover;     
+    height: 400px;
+}
+
+
+.cards0 {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+.card1 {
+    align-items: center;
+    background-color: #1ABC9C;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    width: 180px;
+    
+}
+
+.card1:hover {
+    align-items: center;
+    background-color: #48C9B0;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    width: 180px;
+
+}
+
+
+.cards1 {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+
+.browsecat {
+    background-image: url(/images/category.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 400px;
+
+}
+
+.textsechead {
+    color: black;
+    margin: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+.categories {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    margin-left: 15%;  
+    margin-right: 15%;
+}
+
+
+.category {
+    background-color: #42A5F5;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    width: fit-content;
+    
+}
+
+
+.category:hover {
+    background-color: #64B5F6;
+    border-radius: 10px;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    width: fit-content;    
+    
+}
+
+
+.footend {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer1 {
+    background-color: gray;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    width: 100%;
+}
+
+
+.footlists {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.footerhead {
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    width: fit-content;
+}
+
+.footerhead:hover {
+    background-color: white;
+    border-bottom: 1px solid black;
+    color: black;
+    margin-bottom: 10px;
+    width: fit-content;
+    
+}
+
+
+.footerlist:hover {
+    color: black;
+    width: fit-content;
+}
+
+
+.trending_content {
+    justify-content: space-around;
+    margin: 30px 50px;
+}
+
