@@ -1,5 +1,5 @@
 # Learning Hub
-    - A single page static webpage developed using HTML, CSS and HTML.
+    - A single page static webpage developed using HTML, CSS and Bootstrap.
     - Inspired from alison.com
 <br>
 
